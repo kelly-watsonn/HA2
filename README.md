@@ -14,7 +14,7 @@ This do-file will generate height-age, PMB and mean estiamtes from the extracted
 *File to output tables*: "HA2_tables.xlsx"<br/>
 This do-file runs all meta-analyses (primary and sensitivity analyses) and generates figures for all length outcomes.<br/>
 <br/>
-**3) Estiamting Correlations between LAZ and Height-age Mean Differences**<br/>
+**3) Estimating Correlations between LAZ and Height-age Mean Differences**<br/>
 *Code file*: "HA2_Figure 2_HA-LAZ MD Correlation.R"<br/>
 *Required dataset to run this code*: "meta_input_data.full.dta" <br/>
 This code file estimates correlations between the estimates of LAZ and height-age mean differences across the included studies in this meta-analysis and generates Figure 2 of the manuscript.<br/>
