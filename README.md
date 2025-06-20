@@ -1,6 +1,6 @@
 ### README
 
-#### Study: Height-age instead of height-for-age z-scores to quantify child growth effects of small-quantity lipid-based nutrient supplements in randomized trials in low- and middle-income countries<br/>
+#### Study: Height-age instead of height-for-age z-scores to quantify linear growth effects of nutritional interventions in randomized controlled trials<br/>
 Kelly M Watson, Alison SB Dasiewicz, Diego G Bassani, Chun-Yuan Chen, Huma Qamar, Daniel E Roth<br/>
 <br/>
 **1) Generating Dataset for Meta-analysis**<br/>
